@@ -107,11 +107,5 @@ If you encounter any problems, please [open an issue]([https://github.com/your-u
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 📞 Contact
 For further questions or feedback, please contact [maiatef066@gmail.com](maiatef066@gmail.com) or +201551620417 
