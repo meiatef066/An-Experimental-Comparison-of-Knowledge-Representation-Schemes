@@ -103,7 +103,7 @@ We welcome contributions! To get started:
 
 ## Reporting Issues
 
-If you encounter any problems, please [open an issue](https://github.com/your-username/risk-management-expert-system/issues) with a detailed description.
+If you encounter any problems, please [open an issue]([https://github.com/your-username/risk-management-expert-system/issues](https://github.com/meiatef066/An-Experimental-Comparison-of-Knowledge-Representation-Schemes)) with a detailed description.
 
 ---
 
