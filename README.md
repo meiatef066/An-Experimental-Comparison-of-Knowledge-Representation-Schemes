@@ -3,7 +3,7 @@
 The **Risk Management Expert System** is a knowledge-based system implemented in CLIPS that helps analyze and manage risks in large construction projects. It uses forward and backward reasoning to deduce risks from user inputs, detect risk factors, and issue alarms for critical risks.
 
 ---
-## presenation on canva [Risk Management Expert System](https://www.canva.com/design/DAGlvo3rf2Y/WLl-Nw1YzBZ9ovM-adI4BA/edit?utm_content=DAGlvo3rf2Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+## presenation on canva [knowledge represenation](https://www.canva.com/design/DAGlvo3rf2Y/WLl-Nw1YzBZ9ovM-adI4BA/edit?utm_content=DAGlvo3rf2Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## case study link on [research gate](https://www.researchgate.net/publication/220605542_An_Experimental_Comparison_of_Knowledge_Representation_Schemes) 
 ##  Features
 
